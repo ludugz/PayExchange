@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">PayExchange</string>
+    <string name="country_prompt">Choose a currency code</string>
+    <string name="hint_enter_amount">Enter the amount</string>
+    <string name="get">Get</string>
+    <string name="data_error_message">Cannot load data</string>
+
+    <string-array name="country_code_array">
+        <item>AED</item>
+        <item>AFN</item>
+        <item>ALL</item>
+        <item>AMD</item>
+        <item>ANG</item>
+        <item>AOA</item>
+        <item>ARS</item>
+        <item>AUD</item>
+        <item>AWG</item>
+        <item>AZN</item>
+        <item>BAM</item>
+        <item>BBD</item>
+        <item>BDT</item>
+        <item>BGN</item>
+        <item>BHD</item>
+        <item>BIF</item>
+        <item>BMD</item>
+        <item>BND</item>
+        <item>BOB</item>
+        <item>BRL</item>
+        <item>BSD</item>
+        <item>BTC</item>
+        <item>BTN</item>
+        <item>BWP</item>
+        <item>BYN</item>
+        <item>BYR</item>
+        <item>BZD</item>
+        <item>CAD</item>
+        <item>CDF</item>
+        <item>CHF</item>
+    </string-array>
+
+    <string-array name="country_full_name_array">
+        <item>United Arab Emirates Dirham</item>
+        <item>Afghan Afghani</item>
+        <item>Albanian Lek</item>
+        <item>Armenian Dram</item>
+        <item>Netherlands Antillean Guilder</item>
+        <item>Angolan Kwanza</item>
+        <item>Argentine Peso</item>
+        <item>Australian Dollar</item>
+        <item>Aruban Florin</item>
+        <item>Azerbaijani Manat</item>
+        <item>Bosnia-Herzegovina Convertible Mark</item>
+        <item>Barbadian Dollar</item>
+        <item>Bangladeshi Taka</item>
+        <item>Bulgarian Lev</item>
+        <item>Bahraini Dinar</item>
+        <item>Burundian Franc</item>
+        <item>Bermudan Dollar</item>
+        <item>Brunei Dollar</item>
+        <item>Bolivian Boliviano</item>
+        <item>Brazilian Real</item>
+        <item>Bahamian Dollar</item>
+        <item>Bitcoin</item>
+        <item>Bhutanese Ngultrum</item>
+        <item>Botswanan Pula</item>
+        <item>Belarusian Ruble</item>
+        <item>Belarusian Ruble</item>
+        <item>Belize Dollar</item>
+        <item>Canadian Dollar</item>
+        <item>Congolese Franc</item>
+        <item>Swiss Franc</item>
+    </string-array>
+</resources>
